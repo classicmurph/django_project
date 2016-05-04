@@ -58,3 +58,5 @@ target/
 
 # Other
 *.idea
+secrets.py
+db.sqlite3
